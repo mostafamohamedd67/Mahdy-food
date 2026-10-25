@@ -1,0 +1,696 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-25T09:00:00Z",
+  "pricesUpdatedAt": "2026-10-25T09:00:00Z",
+  "settings": {
+    "brandAr": "مهدي فود",
+    "brandEn": "Mahdy Food",
+    "subBrandAr": "من مطبخ ريف فيش",
+    "subBrandEn": "by Reef Fish",
+    "taglineAr": "ملك السي فود — من قلب البحر دائماً فريش",
+    "taglineEn": "King of seafood — straight from the sea, always fresh",
+    "currencyAr": "ج",
+    "currencyEn": "EGP",
+    "phones": [
+      "01117161717",
+      "01095930172"
+    ],
+    "whatsapp": "201117161717",
+    "deliveryFee": 15,
+    "deliveryNoteAr": "التوصيل داخل المدينة ١٥ ج",
+    "deliveryNoteEn": "Delivery inside the city 15 EGP",
+    "facebook": "https://www.facebook.com/p/Mahdy-Food-%D9%85%D9%87%D8%AF%D9%8A-%D9%81%D9%88%D8%AF-61559740164032/",
+    "instagram": "https://www.instagram.com/mahdy_food8/",
+    "hours": {
+      "sat": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "mon": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "tue": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "02:00"
+      },
+      "fri": {
+        "open": "13:00",
+        "close": "02:00"
+      }
+    },
+    "hoursVerified": false,
+    "branches": [
+      {
+        "id": "madina",
+        "nameAr": "فرع أسواق المدينة",
+        "nameEn": "Asswaq El Madina branch",
+        "addressAr": "برج العرب الجديدة — مول أسواق المدينة — بلوك ٧ — G4",
+        "addressEn": "New Borg El Arab — Asswaq El Madina Mall — Block 7 — G4",
+        "phone": "01117161717",
+        "mapQuery": "أسواق المدينة برج العرب الجديدة",
+        "badgeAr": "افتتاح جديد",
+        "badgeEn": "Newly opened",
+        "mapEmbed": ""
+      },
+      {
+        "id": "hay2",
+        "nameAr": "الفرع الرئيسي",
+        "nameEn": "Main branch",
+        "addressAr": "الحي الثاني — شارع المحكمة القديمة — خلف منفذ الجيش",
+        "addressEn": "2nd District — Old Courthouse St. — behind the army outlet",
+        "phone": "01117161717",
+        "mapQuery": "شارع المحكمة القديمة الحي الثاني برج العرب الجديدة",
+        "badgeAr": "",
+        "badgeEn": "",
+        "mapEmbed": ""
+      }
+    ]
+  },
+  "daily": [
+    {
+      "id": "d01",
+      "ar": "بلطي",
+      "en": "Tilapia",
+      "price": null,
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "d02",
+      "ar": "بوري",
+      "en": "Mullet",
+      "price": null,
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "d03",
+      "ar": "بوري بحر",
+      "en": "Sea mullet",
+      "price": null,
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "d04",
+      "ar": "دنيس",
+      "en": "Sea bream",
+      "price": null,
+      "available": true,
+      "order": 4
+    },
+    {
+      "id": "d05",
+      "ar": "شراغيش",
+      "en": "Sharagheesh",
+      "price": null,
+      "available": true,
+      "order": 5
+    },
+    {
+      "id": "d06",
+      "ar": "قاروص",
+      "en": "Sea bass",
+      "price": null,
+      "available": true,
+      "order": 6
+    },
+    {
+      "id": "d07",
+      "ar": "لوت",
+      "en": "Grouper",
+      "price": null,
+      "available": true,
+      "order": 7
+    },
+    {
+      "id": "d08",
+      "ar": "وقار",
+      "en": "Waqar",
+      "price": null,
+      "available": true,
+      "order": 8
+    },
+    {
+      "id": "d09",
+      "ar": "تونة",
+      "en": "Tuna",
+      "price": null,
+      "available": true,
+      "order": 9
+    },
+    {
+      "id": "d10",
+      "ar": "مرجان",
+      "en": "Marjan",
+      "price": null,
+      "available": true,
+      "order": 10
+    },
+    {
+      "id": "d11",
+      "ar": "بربون",
+      "en": "Red mullet",
+      "price": null,
+      "available": true,
+      "order": 11
+    },
+    {
+      "id": "d12",
+      "ar": "مغازل",
+      "en": "Maghazel",
+      "price": null,
+      "available": true,
+      "order": 12
+    },
+    {
+      "id": "d13",
+      "ar": "مكرونة",
+      "en": "Makarona fish",
+      "price": null,
+      "available": true,
+      "order": 13
+    },
+    {
+      "id": "d14",
+      "ar": "دراك",
+      "en": "Barracuda",
+      "price": null,
+      "available": true,
+      "order": 14
+    },
+    {
+      "id": "d15",
+      "ar": "جنزوفلي",
+      "en": "Ganzofly",
+      "price": null,
+      "available": true,
+      "order": 15
+    },
+    {
+      "id": "d16",
+      "ar": "بلح بحر",
+      "en": "Mussels",
+      "price": null,
+      "available": true,
+      "order": 16
+    },
+    {
+      "id": "d17",
+      "ar": "سبيط",
+      "en": "Cuttlefish",
+      "price": null,
+      "available": true,
+      "order": 17
+    },
+    {
+      "id": "d18",
+      "ar": "كاليماري",
+      "en": "Calamari",
+      "price": null,
+      "available": true,
+      "order": 18
+    },
+    {
+      "id": "d19",
+      "ar": "كابوريا دكر",
+      "en": "Male crab",
+      "price": 100,
+      "available": true,
+      "order": 19
+    },
+    {
+      "id": "d20",
+      "ar": "كابوريا نتي",
+      "en": "Female crab (roe)",
+      "price": 200,
+      "available": true,
+      "order": 20
+    },
+    {
+      "id": "d21",
+      "ar": "بساريا",
+      "en": "Bessaria",
+      "price": null,
+      "available": true,
+      "order": 21
+    },
+    {
+      "id": "d22",
+      "ar": "سردين",
+      "en": "Sardine",
+      "price": null,
+      "available": true,
+      "order": 22
+    },
+    {
+      "id": "d23",
+      "ar": "جمبري بلدي",
+      "en": "Local shrimp",
+      "price": null,
+      "available": true,
+      "order": 23
+    },
+    {
+      "id": "d24",
+      "ar": "جمبري أحمر",
+      "en": "Red shrimp",
+      "price": null,
+      "available": true,
+      "order": 24
+    },
+    {
+      "id": "d25",
+      "ar": "جمبري قزاز",
+      "en": "Glass shrimp",
+      "price": 400,
+      "available": true,
+      "order": 25
+    },
+    {
+      "id": "d26",
+      "ar": "جمبري جامبو",
+      "en": "Jumbo shrimp",
+      "price": null,
+      "available": true,
+      "order": 26
+    }
+  ],
+  "categories": [
+    {
+      "id": "grilled",
+      "ar": "مشويات",
+      "en": "From the charcoal",
+      "iconAr": "🔥",
+      "image": "grill.jpg",
+      "order": 1
+    },
+    {
+      "id": "tagines",
+      "ar": "طواجن",
+      "en": "Clay-pot tagines",
+      "iconAr": "🍲",
+      "image": "tagine.jpg",
+      "order": 2
+    },
+    {
+      "id": "trays",
+      "ar": "صواني وعروض",
+      "en": "Trays & offers",
+      "iconAr": "🦀",
+      "image": "crab-tray.jpg",
+      "order": 3
+    },
+    {
+      "id": "combos",
+      "ar": "وجبات بسعر واحد",
+      "en": "Set meals",
+      "iconAr": "🍽️",
+      "image": "mixed-tray.jpg",
+      "order": 4
+    },
+    {
+      "id": "sides",
+      "ar": "شوربة ومقبلات",
+      "en": "Soup & sides",
+      "iconAr": "🥣",
+      "image": "soup.jpg",
+      "order": 5
+    },
+    {
+      "id": "sweets",
+      "ar": "حلويات",
+      "en": "Desserts",
+      "iconAr": "🍮",
+      "image": "",
+      "order": 6
+    }
+  ],
+  "items": [
+    {
+      "id": "i01",
+      "cat": "grilled",
+      "ar": "كيلو بلطي مشوي",
+      "en": "Grilled tilapia — 1kg",
+      "descAr": "على الفحم، متبّل بالبلدي",
+      "descEn": "Charcoal-grilled, house-spiced",
+      "price": 110,
+      "oldPrice": null,
+      "image": "grilled-fish.jpg",
+      "tags": [
+        "bestseller"
+      ],
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "i02",
+      "cat": "grilled",
+      "ar": "كيلو بوري مشوي",
+      "en": "Grilled mullet — 1kg",
+      "descAr": "بطنه فيها زبدة حرفياً",
+      "descEn": "So rich it tastes buttered",
+      "price": 160,
+      "oldPrice": null,
+      "image": "grill.jpg",
+      "tags": [
+        "bestseller"
+      ],
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "i03",
+      "cat": "grilled",
+      "ar": "كيلو بربون كبير مشوي",
+      "en": "Large grilled red mullet — 1kg",
+      "descAr": "",
+      "descEn": "",
+      "price": 380,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "i04",
+      "cat": "grilled",
+      "ar": "كيلو قاروص مشوي",
+      "en": "Grilled sea bass — 1kg",
+      "descAr": "",
+      "descEn": "",
+      "price": 460,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 4
+    },
+    {
+      "id": "i05",
+      "cat": "grilled",
+      "ar": "كيلو كابوريا مشوي",
+      "en": "Grilled crab — 1kg",
+      "descAr": "يبدأ من",
+      "descEn": "Starts from",
+      "price": 120,
+      "oldPrice": null,
+      "image": "crab.jpg",
+      "tags": [],
+      "available": true,
+      "order": 5
+    },
+    {
+      "id": "i06",
+      "cat": "tagines",
+      "ar": "طاجن قزقزة",
+      "en": "Crab & shrimp tagine",
+      "descAr": "نفس الحجم ونفس الكمية",
+      "descEn": "Same size, same portion",
+      "price": 135,
+      "oldPrice": 150,
+      "image": "tagine.jpg",
+      "tags": [
+        "offer"
+      ],
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "i07",
+      "cat": "tagines",
+      "ar": "طاجن دراك جزل",
+      "en": "Barracuda tagine",
+      "descAr": "أو لوت بالزبدة",
+      "descEn": "Or grouper in butter",
+      "price": null,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "i08",
+      "cat": "tagines",
+      "ar": "طاجن كوارع بالجمبري",
+      "en": "Trotters & shrimp tagine",
+      "descAr": "الطاجن اللي عملنا له براءة اختراع",
+      "descEn": "The one we'd patent if we could",
+      "price": null,
+      "oldPrice": null,
+      "image": "soup.jpg",
+      "tags": [
+        "signature"
+      ],
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "i09",
+      "cat": "trays",
+      "ar": "كيلو مشكل بحر",
+      "en": "Mixed seafood — 1kg",
+      "descAr": "مغازل، مكرونة، مرجان، موزة، بطاطا",
+      "descEn": "Maghazel, makarona, marjan, moza, potato",
+      "price": 200,
+      "oldPrice": null,
+      "image": "mixed-tray.jpg",
+      "tags": [
+        "bestseller"
+      ],
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "i10",
+      "cat": "trays",
+      "ar": "كيلو جمبري على كابوريا",
+      "en": "Shrimp over crab — 1kg",
+      "descAr": "",
+      "descEn": "",
+      "price": 290,
+      "oldPrice": null,
+      "image": "crab-tray.jpg",
+      "tags": [],
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "i11",
+      "cat": "trays",
+      "ar": "صينية سي فود + ٢ شوربة",
+      "en": "Seafood tray + 2 soups",
+      "descAr": "",
+      "descEn": "",
+      "price": 400,
+      "oldPrice": 550,
+      "image": "crab-tray2.jpg",
+      "tags": [
+        "offer"
+      ],
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "i12",
+      "cat": "trays",
+      "ar": "كيلو كابوريا نتي وجمبري قزاز",
+      "en": "Roe crab & glass shrimp — 1kg",
+      "descAr": "",
+      "descEn": "",
+      "price": 350,
+      "oldPrice": 500,
+      "image": "crab.jpg",
+      "tags": [
+        "offer"
+      ],
+      "available": true,
+      "order": 4
+    },
+    {
+      "id": "i13",
+      "cat": "combos",
+      "ar": "كيلو بوري + كيلو كابوريا",
+      "en": "1kg mullet + 1kg crab",
+      "descAr": "اشبع وقزقز",
+      "descEn": "The full feast",
+      "price": 250,
+      "oldPrice": null,
+      "image": "crab-tray2.jpg",
+      "tags": [
+        "bestseller"
+      ],
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "i14",
+      "cat": "combos",
+      "ar": "كيلو بلطي + كيلو كابوريا",
+      "en": "1kg tilapia + 1kg crab",
+      "descAr": "",
+      "descEn": "",
+      "price": 220,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "i15",
+      "cat": "combos",
+      "ar": "كيلو مرجان + طاجن جمبري + ٢ شوربة",
+      "en": "1kg marjan + shrimp tagine + 2 soups",
+      "descAr": "",
+      "descEn": "",
+      "price": 300,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 3
+    },
+    {
+      "id": "i16",
+      "cat": "combos",
+      "ar": "غداء كامل",
+      "en": "Full lunch",
+      "descAr": "بلطي، بوري، دنيس، قاروص، موسى + شوربة جمبري",
+      "descEn": "Tilapia, mullet, bream, bass, sole + shrimp soup",
+      "price": 250,
+      "oldPrice": null,
+      "image": "fresh-platter.jpg",
+      "tags": [
+        "signature"
+      ],
+      "available": true,
+      "order": 4
+    },
+    {
+      "id": "i17",
+      "cat": "combos",
+      "ar": "كيلو بوري + طاجن جمبري + ٢ شوربة",
+      "en": "1kg mullet + shrimp tagine + 2 soups",
+      "descAr": "",
+      "descEn": "",
+      "price": 300,
+      "oldPrice": 350,
+      "image": "",
+      "tags": [
+        "offer"
+      ],
+      "available": true,
+      "order": 5
+    },
+    {
+      "id": "i18",
+      "cat": "sides",
+      "ar": "رز جمبري",
+      "en": "Shrimp rice",
+      "descAr": "رجع بنفس السعر القديم",
+      "descEn": "Back at the old price",
+      "price": 65,
+      "oldPrice": null,
+      "image": "",
+      "tags": [
+        "offer"
+      ],
+      "available": true,
+      "order": 1
+    },
+    {
+      "id": "i19",
+      "cat": "sides",
+      "ar": "شوربة جمبري",
+      "en": "Shrimp soup",
+      "descAr": "",
+      "descEn": "",
+      "price": null,
+      "oldPrice": null,
+      "image": "soup.jpg",
+      "tags": [],
+      "available": true,
+      "order": 2
+    },
+    {
+      "id": "i20",
+      "cat": "sweets",
+      "ar": "حلويات اليوم",
+      "en": "Dessert of the day",
+      "descAr": "بتتعمل في البيت كل يوم",
+      "descEn": "Made fresh every day",
+      "price": null,
+      "oldPrice": null,
+      "image": "",
+      "tags": [],
+      "available": true,
+      "order": 1
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g01",
+      "image": "counter.jpg",
+      "captionAr": "فاترينة النهاردة",
+      "captionEn": "Today's counter"
+    },
+    {
+      "id": "g02",
+      "image": "grill.jpg",
+      "captionAr": "على الفحم",
+      "captionEn": "On the charcoal"
+    },
+    {
+      "id": "g03",
+      "image": "crab.jpg",
+      "captionAr": "كابوريا نتي",
+      "captionEn": "Roe crab"
+    },
+    {
+      "id": "g04",
+      "image": "grilled-fish.jpg",
+      "captionAr": "بوري مشوي",
+      "captionEn": "Grilled mullet"
+    },
+    {
+      "id": "g05",
+      "image": "fresh-platter.jpg",
+      "captionAr": "حي ولسه جاي",
+      "captionEn": "Landed this morning"
+    },
+    {
+      "id": "g06",
+      "image": "crab-tray.jpg",
+      "captionAr": "صينية كابوريا",
+      "captionEn": "Crab tray"
+    },
+    {
+      "id": "g07",
+      "image": "tagine.jpg",
+      "captionAr": "طاجن بالزبدة",
+      "captionEn": "Butter tagine"
+    },
+    {
+      "id": "g08",
+      "image": "shrimp-tray.jpg",
+      "captionAr": "جمبري كبير",
+      "captionEn": "Large shrimp"
+    }
+  ]
+}
